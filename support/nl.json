@@ -2,14 +2,14 @@
     "headerItems": [
         {
             "id": 5,
-            "title": "How to enable subtitles",
+            "title": "Hoe activeer ik ondertiteling?",
             "subtitle": "Header subtitle 1",
             "imageName": "rectangle.3.group.bubble.left.fill",
             "color":"red",
             "supportPages": [
                 {
                   "id": 0,
-                  "title": "Start a FaceTime Call",
+                  "title": "Start een FaceTime gesprek",
                   "subtitle": "Start a video or audio call using FaceTime with a friend, family member or business partner.",
                 },
                 {
@@ -19,12 +19,12 @@
                 },
                 {
                   "id": 2,
-                  "title": "Enable Subtitles",
+                  "title": "Activeer Ondertiteling",
                   "subtitle": "Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi.",
                 },
                 {
                   "id": 3,
-                  "title": "Wait for others to join",
+                  "title": "Wacht tot andere arriveren",
                   "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
                   "imageURL": "https://developer.apple.com/news/images/og/shareplay-og-twitter.jpg"
                 }
@@ -35,11 +35,11 @@
     "faqSections": [
         {
             "id": 0,
-            "title": "Frequently Asked Questions",
+            "title": "Veelgestelde vragen",
             "items": [
                 {
                     "id": 0,
-                    "title": "What languages are supported?",
+                    "title": "Welke talen worden ondersteund?",
                     "text": "Navi can translate incoming subtitles into the following languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chinese, Chinese, Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Nyanja, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scots, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba and Zulu.",
                     "imageName": "rectangle.3.group.bubble.left.fill"
                 }
@@ -47,7 +47,7 @@
         },
         {
             "id": 2,
-            "title": "Privacy and Terms",
+            "title": "Privacy en Gebruik",
             "items": [
                 {
                     "id": 0,
@@ -69,7 +69,7 @@
         },
         {
             "id": 1,
-            "title":"Email us",
+            "title":"Email ons",
             "url":"mailto:jordi@goodsnooze.com?subject=Navi%20Support",
             "imageName":"message.fill",
             "color":"red"
