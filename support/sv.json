@@ -1,0 +1,82 @@
+{
+    "headerItems": [
+        {
+            "id": 5,
+            "title": "How to enable subtitles",
+            "subtitle": "Header subtitle 1",
+            "imageName": "rectangle.3.group.bubble.left.fill",
+            "color":"red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Start a FaceTime Call",
+                  "subtitle": "Start a video or audio call using FaceTime with a friend, family member or business partner.",
+                },
+                {
+                  "id": 1,
+                  "title": "Open Navi",
+                  "subtitle": "While staying on the call, return to your homescreen and open Navi.",
+                },
+                {
+                  "id": 2,
+                  "title": "Enable Subtitles",
+                  "subtitle": "Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi.",
+                },
+                {
+                  "id": 3,
+                  "title": "Wait for others to join",
+                  "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
+                  "imageURL": "https://developer.apple.com/news/images/og/shareplay-og-twitter.jpg"
+                }
+              ]
+        }
+    ],
+    "highlightedItems": [],
+    "faqSections": [
+        {
+            "id": 0,
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "What languages are supported?",
+                    "text": "Navi can translate incoming subtitles into the following languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chinese, Chinese, Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Nyanja, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scots, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba and Zulu.",
+                    "imageName": "rectangle.3.group.bubble.left.fill"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Privacy and Terms",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Privacy Policy",
+                    "text": "You can read Navi's Privacy Policy [here](https://jordibruin.notion.site/Privacy-Policy-7eee44fb47c24a719d89a380bce6aa06)",
+                    "imageName": "rectangle.3.group.bubble.left.fill"
+                }
+            ]
+        }
+    ],
+    
+    "contactItems": [
+        {
+            "id": 0,
+            "title":"Twitter",
+            "url":"https://www.twitter.com/jordibruin",
+            "imageName":"message.fill",
+            "color": "red"
+        },
+        {
+            "id": 1,
+            "title":"Email us",
+            "url":"mailto:jordi@goodsnooze.com?subject=Navi%20Support",
+            "imageName":"message.fill",
+            "color":"red"
+        }
+    ]
+}
+
+
+
+
