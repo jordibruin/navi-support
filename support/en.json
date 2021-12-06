@@ -29,7 +29,6 @@
                   "id": 3,
                   "title": "Wait for others to join",
                   "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
-                  "imageURL": "https://developer.apple.com/news/images/og/shareplay-og-twitter.jpg",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg"
                 }
               ]
