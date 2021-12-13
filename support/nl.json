@@ -32,6 +32,33 @@
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg"
                 }
               ]
+        },
+        {
+            "id": 6,
+            "title": "Aan de slag met Live Vertaling",
+            "subtitle": "Header subtitle 1",
+            "imageName": "character.bubble.fill",
+            "color":"red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Koop Vertaal Credits",
+                  "subtitle": "Om inkomende ondertiteling te vertalen heb je Vertaal Credits nodig. Elke credit vertaald één karakter in het bericht.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation1.jpg"
+                },
+                {
+                  "id": 1,
+                  "title": "Tik op Taal",
+                  "subtitle": "Tik op \"Taal\" in de balk rechtsonder op het ondertitelings scherm.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation2.jpg"
+                },
+                {
+                  "id": 2,
+                  "title": "Activeer Vertaling",
+                  "subtitle": "Tik op \"Vertaling Aanzetten\" om de vertaling te starten.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation3.jpg"
+                }
+              ]
         }
     ],
     "highlightedItems": [],

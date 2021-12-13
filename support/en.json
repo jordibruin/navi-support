@@ -34,7 +34,7 @@
               ]
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Getting Started with Live Translation",
             "subtitle": "Header subtitle 1",
             "imageName": "character.bubble.fill",
@@ -44,19 +44,19 @@
                   "id": 0,
                   "title": "Get Translation Tokens",
                   "subtitle": "To translate incoming subtitles you must purchase Translation Tokens. Each token translates one character in the message.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg"
+                "imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation1.jpg"
                 },
                 {
                   "id": 1,
                   "title": "Open Language",
                   "subtitle": "Tap on \"Language\" in the bottom right corner of the subtitles screen.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg"
+"imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation2.jpg"
                 },
                 {
                   "id": 2,
                   "title": "Enable Translation",
                   "subtitle": "Tap \"Enable Translation\" to start Live Translation.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg"
+"imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation3.jpg"
                 }
               ]
         }
