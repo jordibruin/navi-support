@@ -29,28 +29,82 @@
                   "id": 3,
                   "title": "Wait for others to join",
                   "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
-                  "imageURL": "https://developer.apple.com/news/images/og/shareplay-og-twitter.jpg",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg"
+                }
+              ]
+        },
+        {
+            "id": 5,
+            "title": "Getting Started with Live Translation",
+            "subtitle": "Header subtitle 1",
+            "imageName": "character.bubble.fill",
+            "color":"red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Get Translation Tokens",
+                  "subtitle": "To translate incoming subtitles you must purchase Translation Tokens. Each token translates one character in the message.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg"
+                },
+                {
+                  "id": 1,
+                  "title": "Open Language",
+                  "subtitle": "Tap on \"Language\" in the bottom right corner of the subtitles screen.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg"
+                },
+                {
+                  "id": 2,
+                  "title": "Enable Translation",
+                  "subtitle": "Tap \"Enable Translation\" to start Live Translation.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg"
                 }
               ]
         }
     ],
-    "highlightedItems": [],
+    "highlightedItems": [
+        {
+            "id": 0,
+            "title": "Navi is out!",
+            "subtitle": "Available now!",
+            "imageName": "face.smiling.fill",
+            "color": "red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Early launch",
+                  "subtitle": "As you probably noticed, Navi is available today. With the release of macOS Monterey 12.1 and iOS 15.2 we just couldn't wait to get it out into the world! Please let us know if you run into anything in this version of the app by sending an email to jordi@goodsnooze.com!",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/celebration.jpg"
+                }
+            ]
+        }
+    ],
     "faqSections": [
         {
             "id": 0,
-            "title": "Frequently Asked Questions",
+            "title": "Live Translation",
             "items": [
                 {
                     "id": 0,
                     "title": "What languages are supported?",
-                    "text": "Navi can translate incoming subtitles into the following languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chinese, Chinese, Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Nyanja, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scots, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba and Zulu.",
+                    "text": "Navi can translate incoming subtitles into the following languages: Arabic, Chinese (Simplified), Chinese (Traditional), Croation, Danish, Dutch, English, Finnish, French, German, Italian, Japanese, Norwegian, Polish, Portuguese, Spanish, Swedish, Thai, Turkish, Vietnamese and Ukranian.",
+                    "imageName": "rectangle.3.group.bubble.left.fill"
+                },
+                {
+                    "id": 1,
+                    "title": "Reducing Translation Tokens usage",
+                    "text": "The Live Translation feature translates incoming subtitles. When you have Realtime Translation enabled that means that for every new word that comes in, the entire sentence gets translated again. If you turn Realtime Translation off, the sentence will only get translated once it's finished. You can also ask the other person on the call to speak in shorter sentences with more pauses in between.",
+                    "imageName": "rectangle.3.group.bubble.left.fill"
+                },
+                {
+                    "id": 2,
+                    "title": "How do I purchase Tokens?",
+                    "text": "You can purchase Translation Tokens from the settings screen (Translation Tokens), or from the subtitles screen (More, Translation Tokens).",
                     "imageName": "rectangle.3.group.bubble.left.fill"
                 }
             ]
         },
         {
-            "id": 2,
+            "id": 1,
             "title": "Privacy and Terms",
             "items": [
                 {
