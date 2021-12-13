@@ -10,25 +10,25 @@
                 {
                   "id": 0,
                   "title": "Start een FaceTime gesprek",
-                  "subtitle": "Start a video or audio call using FaceTime with a friend, family member or business partner.",
+                  "subtitle": "Start een video of audio gesprek via FaceTime.",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg"
                 },
                 {
                   "id": 1,
                   "title": "Open Navi",
-                  "subtitle": "While staying on the call, return to your homescreen and open Navi.",
+                  "subtitle": "Blijf in het gesprek, ga terug naar je homescherm en open Navi.",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg"
                 },
                 {
                   "id": 2,
                   "title": "Activeer Ondertiteling",
-                  "subtitle": "Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi.",
+                  "subtitle": "Tik op de \"Activeer Ondertiteling\" knop om de mensen in je FaceTime gesprek uit te nodigen om onderiteling aan te zetten.",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg"
                 },
                 {
                   "id": 3,
                   "title": "Wacht tot anderen arriveren",
-                  "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
+                  "subtitle": "De andere mensen in het gesprek krijgen een popup met de vraag om SharePlay te starten. Als ze op \"Open\" klikken wordt Navi geopend.",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg"
                 }
               ]
