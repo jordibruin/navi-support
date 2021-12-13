@@ -61,7 +61,23 @@
               ]
         }
     ],
-    "highlightedItems": [],
+    "highlightedItems": [
+        {
+            "id": 0,
+            "title": "Navi is out!",
+            "subtitle": "Available now!",
+            "imageName": "face.smiling.fill",
+            "color": "red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Early launch",
+                  "subtitle": "As you probably noticed, Navi is available today. With the release of macOS Monterey 12.1 and iOS 15.2 we just couldn't wait to get it out into the world! Please let us know if you run into anything in this version of the app by sending an email to jordi@goodsnooze.com!",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/celebration.jpg"
+                }
+            ]
+        }
+    ],
     "faqSections": [
         {
             "id": 0,
