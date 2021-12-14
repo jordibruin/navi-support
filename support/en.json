@@ -76,6 +76,21 @@
                   "imageURL": "https://jordibruin.github.io/navi-support/images/celebration.jpg"
                 }
             ]
+        },
+        {
+            "id": 1,
+            "title": "What is Navi Unlimited?",
+            "subtitle": "Tap here",
+            "imageName": "person.fill.questionmark",
+            "color": "red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Navi Unlimited",
+                  "subtitle": "Buy purchasing Navi Unlimited you remove the limit to how many calls you can active (regular, non translated) subtitles for. There is currently no limit active until 2022, so feel free to try the app out now before you consider purchasing the unlimited option.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/unlimited.jpg"
+                }
+            ]
         }
     ],
     "faqSections": [
