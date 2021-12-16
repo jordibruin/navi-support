@@ -7,29 +7,33 @@
             "imageName": "rectangle.3.group.bubble.left.fill",
             "color":"red",
             "supportPages": [
-                {
+                 {
                   "id": 0,
                   "title": "Start a FaceTime Call",
                   "subtitle": "Start a video or audio call using FaceTime with a friend, family member or business partner.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg"
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en-dark.jpg"
                 },
                 {
                   "id": 1,
                   "title": "Open Navi",
                   "subtitle": "While staying on the call, return to your homescreen and open Navi.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg"
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en-dark.jpg"
                 },
                 {
                   "id": 2,
                   "title": "Enable Subtitles",
                   "subtitle": "Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg"
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en-dark.jpg"
                 },
                 {
                   "id": 3,
                   "title": "Wait for others to join",
                   "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg"
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en-dark.jpg"
                 }
               ]
         },
