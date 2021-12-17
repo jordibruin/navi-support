@@ -7,29 +7,33 @@
             "imageName": "rectangle.3.group.bubble.left.fill",
             "color":"red",
             "supportPages": [
-                {
+                 {
                   "id": 0,
-                  "title": "Start a FaceTime Call",
-                  "subtitle": "Start a video or audio call using FaceTime with a friend, family member or business partner.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg"
+                  "title": "Iniciar uma chamada de FaceTime",
+                  "subtitle": "Iniciar uma chamada de Video ou de Audio com um amigo, membro da familia ou parceiro de negócios utilizando o FaceTime.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en-dark.jpg"
                 },
                 {
                   "id": 1,
-                  "title": "Open Navi",
-                  "subtitle": "While staying on the call, return to your homescreen and open Navi.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg"
+                  "title": "Abrir o Navi",
+                  "subtitle": "Enquanto estiver numa chamada, retorne ao seu ecrã inicial e abra o Navi.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en-dark.jpg"
                 },
                 {
                   "id": 2,
-                  "title": "Enable Subtitles",
-                  "subtitle": "Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg"
+                  "title": "Ativar as legendas",
+                  "subtitle": "Clique no botão \"Ativar legendas\" para convidar outras pessoas na chamada do FaceTime para o Navi.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en-dark.jpg"
                 },
                 {
                   "id": 3,
-                  "title": "Wait for others to join",
-                  "subtitle": "The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\".",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg"
+                  "title": "à espera que outras pessoas se juntem",
+                  "subtitle": "As outras pessoas na chamada receberão um popup informando-as para ativar o SharePlay, após o qual poderão clicar em \"Abrir\".",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en.jpg",
+                  "darkImageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-04-en-dark.jpg"
                 }
               ]
         },
@@ -44,19 +48,19 @@
                   "id": 0,
                   "title": "Get Translation Tokens",
                   "subtitle": "To translate incoming subtitles you must purchase Translation Tokens. Each token translates one character in the message.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-01-en.jpg"
+                "imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation1.jpg"
                 },
                 {
                   "id": 1,
                   "title": "Open Language",
                   "subtitle": "Tap on \"Language\" in the bottom right corner of the subtitles screen.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-02-en.jpg"
+"imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation2.jpg"
                 },
                 {
                   "id": 2,
                   "title": "Enable Translation",
                   "subtitle": "Tap \"Enable Translation\" to start Live Translation.",
-                  "imageURL": "https://jordibruin.github.io/navi-support/images/howtoenablesubtitles/en/subtitles-03-en.jpg"
+"imageURL": "https://jordibruin.github.io/navi-support/images/livetranslation/livetranslation3.jpg"
                 }
               ]
         }
@@ -74,6 +78,21 @@
                   "title": "Early launch",
                   "subtitle": "As you probably noticed, Navi is available today. With the release of macOS Monterey 12.1 and iOS 15.2 we just couldn't wait to get it out into the world! Please let us know if you run into anything in this version of the app by sending an email to jordi@goodsnooze.com!",
                   "imageURL": "https://jordibruin.github.io/navi-support/images/celebration.jpg"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "What is Navi Unlimited?",
+            "subtitle": "Tap here",
+            "imageName": "person.fill.questionmark",
+            "color": "red",
+            "supportPages": [
+                {
+                  "id": 0,
+                  "title": "Navi Unlimited",
+                  "subtitle": "Buy purchasing Navi Unlimited you remove the limit to how many calls you can active (regular, non translated) subtitles for. There is currently no limit active until 2022, so feel free to try the app out now before you consider purchasing the unlimited option.",
+                  "imageURL": "https://jordibruin.github.io/navi-support/images/unlimited.jpg"
                 }
             ]
         }
@@ -134,7 +153,3 @@
         }
     ]
 }
-
-
-
-
