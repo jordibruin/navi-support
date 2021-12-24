@@ -2,7 +2,7 @@
     "headerItems": [
         {
             "id": 5,
-            "title": "How to enable subtitles",
+            "title": "Como ativar as legendas",
             "subtitle": "Header subtitle 1",
             "imageName": "rectangle.3.group.bubble.left.fill",
             "color":"red",
@@ -104,7 +104,7 @@
             "items": [
                 {
                     "id": 0,
-                    "title": "What languages are supported?",
+                    "title": "Que idiomas são suportados?",
                     "text": "Navi can translate incoming subtitles into the following languages: Arabic, Chinese (Simplified), Chinese (Traditional), Croation, Danish, Dutch, English, Finnish, French, German, Italian, Japanese, Norwegian, Polish, Portuguese, Spanish, Swedish, Thai, Turkish, Vietnamese and Ukranian.",
                     "imageName": "rectangle.3.group.bubble.left.fill"
                 },
@@ -124,12 +124,12 @@
         },
         {
             "id": 1,
-            "title": "Privacy and Terms",
+            "title": "Política de Privacidade",
             "items": [
                 {
                     "id": 0,
-                    "title": "Privacy Policy",
-                    "text": "You can read Navi's Privacy Policy [here](https://jordibruin.notion.site/Privacy-Policy-7eee44fb47c24a719d89a380bce6aa06)",
+                    "title": "Política de Privacidade",
+                    "text": "Pode ler a Política de Privacidade do Navi [here](https://jordibruin.notion.site/Privacy-Policy-7eee44fb47c24a719d89a380bce6aa06). Básicamente, tudo se resume a que queremos saber o mínimo possível sobre si.",
                     "imageName": "rectangle.3.group.bubble.left.fill"
                 }
             ]
@@ -146,7 +146,7 @@
         },
         {
             "id": 1,
-            "title":"Email us",
+            "title":"Envie-nos um email",
             "url":"mailto:jordi@goodsnooze.com?subject=Navi%20Support",
             "imageName":"message.fill",
             "color":"red"
