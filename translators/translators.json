@@ -1,0 +1,139 @@
+
+{
+    "translators": [
+        {
+            "name": "Sascha Thor",
+            "language": "🇩🇪",
+            "emoji": "🤓",
+            "latitude": 40.690456,
+            "longitude": -74.046285
+        },
+        {
+            "name": "Lucas Goldner",
+            "language": "🇩🇪",
+            "emoji": "🍋",
+            "latitude": 48.781334,
+            "longitude": 9.182397
+        },
+        {
+            "name": "Qifan Zhang",
+            "language": "🇨🇳",
+            "emoji": "🍅",
+            "latitude": 30.242617,
+            "longitude": 120.198525
+        },
+        {
+            "name": "Baptiste Faure",
+            "language": "🇫🇷",
+            "emoji": "✨",
+            "latitude": 45.778861,
+            "longitude": 4.851439
+        },
+        {
+            "name": "Johan Forsell",
+            "language": "🇸🇪",
+            "emoji": "👌",
+            "latitude": 56.207981,
+            "longitude": 15.272796
+        },
+        {
+            "name": "royal",
+            "language": "🇵🇱",
+            "emoji": "☔️",
+            "latitude": 50.051184,
+            "longitude": 19.951612
+        },
+        {
+            "name": "Marius Căciulescu",
+            "language": "🇷🇴",
+            "emoji": "🧐",
+            "latitude": 53.329569,
+            "longitude": -6.251205
+        },
+        {
+            "name": "James Ryu",
+            "language": "🇰🇷",
+            "emoji": "😄",
+            "latitude": 43.710711,
+            "longitude": -79.269577
+        },
+        {
+            "name": "Luis Suarez",
+            "language": "🇪🇸",
+            "emoji": "👍",
+            "latitude": 10.982027,
+            "longitude": -74.822528
+        },
+        {
+            "name": "Gualtiero Frigerio",
+            "language": "🇮🇹",
+            "emoji": "😎",
+            "latitude": 45.463888,
+            "longitude": 9.192465
+        },
+        {
+            "name": "Berkay Sargin",
+            "language": "🇹🇷",
+            "emoji": "🦄",
+            "latitude": 38.416338,
+            "longitude": 27.147850
+        },
+        {
+            "name": "Nikolay Ukolov",
+            "language": "🇷🇺",
+            "emoji": "👨‍💻",
+            "latitude": 62.589189,
+            "longitude": 29.800141
+        },
+        {
+            "name": "Roman Mirzoyan",
+            "language": "🇷🇺",
+            "emoji": "🥓",
+            "latitude": 48.214395,
+            "longitude": 16.408203
+        },
+        {
+            "name": "Albert Prieto",
+            "language": "🇪🇸",
+            "emoji": "🥴",
+            "latitude": 41.384463,
+            "longitude": 2.149346
+        },
+        {
+            "name": "Brian Dinsen",
+            "language": "🇩🇰",
+            "emoji": "🚀",
+            "latitude": 55.866356,
+            "longitude": 9.853440
+        },
+        {
+            "name": "Kristóf Kékesi",
+            "language": "🇭🇺",
+            "emoji": "🥳",
+            "latitude": 47.204506,
+            "longitude": 18.638901
+        },
+        {
+            "name": "Sagun Raj Lage",
+            "language": "🇳🇵",
+            "emoji": "🙏",
+            "latitude": 27.671195,
+            "longitude": 85.426023
+        },
+        {
+            "name": "Ailton Vieira",
+            "language": "🇧🇷",
+            "emoji": "🤔",
+            "latitude": -25.443975,
+            "longitude": -49.240864
+        },
+        {
+            "name": "Jorge Rosado",
+            "language": "🇵🇹",
+            "emoji": "😎",
+            "latitude": 39.541099,
+            "longitude": -8.712627
+        }
+    
+    ]
+}
